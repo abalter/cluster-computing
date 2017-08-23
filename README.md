@@ -1,5 +1,1 @@
-# B-Core-Collaboration
-
-Information for B-Core collaborators		
-
-# [wiki](http://gitlab.bcore.ohsu.edu/ohsu/B-Core-Collaboration/wikis/home)
+# [Cluster Computing Knowledge Base](https://github.com/abalter/cluster-computing/wiki)
